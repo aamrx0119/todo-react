@@ -1,7 +1,7 @@
 export default function Header(){
     return(
         <header>
-            <h1>SabzLearn Todo List</h1>
+            <h1>Todos</h1>
         </header>
     )
 }
